@@ -19,5 +19,6 @@ public class Produto
 	public String getFabricante() { return fabricante; }
 	public String getID() { return id; }
 	public double getPreco() { return preco; }
+
 	
 }
